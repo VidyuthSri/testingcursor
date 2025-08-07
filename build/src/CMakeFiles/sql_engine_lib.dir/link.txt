@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc libsql_engine_lib.a CMakeFiles/sql_engine_lib.dir/lexer.cpp.o CMakeFiles/sql_engine_lib.dir/parser.cpp.o CMakeFiles/sql_engine_lib.dir/ast.cpp.o CMakeFiles/sql_engine_lib.dir/storage.cpp.o CMakeFiles/sql_engine_lib.dir/query_engine.cpp.o CMakeFiles/sql_engine_lib.dir/llvm_codegen.cpp.o
+/usr/bin/llvm-ranlib libsql_engine_lib.a

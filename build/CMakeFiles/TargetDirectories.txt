@@ -1,0 +1,13 @@
+/workspace/build/CMakeFiles/intrinsics_gen.dir
+/workspace/build/CMakeFiles/vt_gen.dir
+/workspace/build/CMakeFiles/omp_gen.dir
+/workspace/build/CMakeFiles/acc_gen.dir
+/workspace/build/CMakeFiles/ARMTargetParserTableGen.dir
+/workspace/build/CMakeFiles/AArch64TargetParserTableGen.dir
+/workspace/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/workspace/build/CMakeFiles/sql_engine.dir
+/workspace/build/CMakeFiles/edit_cache.dir
+/workspace/build/CMakeFiles/rebuild_cache.dir
+/workspace/build/src/CMakeFiles/sql_engine_lib.dir
+/workspace/build/src/CMakeFiles/edit_cache.dir
+/workspace/build/src/CMakeFiles/rebuild_cache.dir
